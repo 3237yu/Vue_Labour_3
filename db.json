@@ -1,0 +1,102 @@
+{
+  "candidates": [
+    {
+      "id": "1",
+      "name": "林俊杰",
+      "image": "src/assets/林俊杰.webp",
+      "votes": 2
+    },
+    {
+      "id": "2",
+      "name": "陶喆",
+      "image": "src/assets/陶喆.webp",
+      "votes": 3
+    },
+    {
+      "id": "3",
+      "name": "王力宏",
+      "image": "src/assets/王力宏.webp",
+      "votes": 3
+    },
+    {
+      "id": "4",
+      "name": "周杰伦",
+      "image": "src/assets/周杰伦.webp",
+      "votes": 4
+    }
+  ],
+  "votes": [
+    {
+      "id": "1",
+      "time": "19:57:27",
+      "name": "林俊杰",
+      "votes": 1
+    },
+    {
+      "id": "2",
+      "time": "19:57:28",
+      "name": "陶喆",
+      "votes": 1
+    },
+    {
+      "id": "3",
+      "time": "19:57:29",
+      "name": "王力宏",
+      "votes": 1
+    },
+    {
+      "id": "4",
+      "time": "19:57:30",
+      "name": "周杰伦",
+      "votes": 1
+    },
+    {
+      "id": "1",
+      "time": "19:57:35",
+      "name": "林俊杰",
+      "votes": 2
+    },
+    {
+      "id": "2",
+      "time": "19:57:35",
+      "name": "陶喆",
+      "votes": 2
+    },
+    {
+      "id": "3",
+      "time": "19:57:36",
+      "name": "王力宏",
+      "votes": 2
+    },
+    {
+      "id": "4",
+      "time": "19:57:37",
+      "name": "周杰伦",
+      "votes": 2
+    },
+    {
+      "id": "2",
+      "time": "20:05:23",
+      "name": "陶喆",
+      "votes": 3
+    },
+    {
+      "id": "3",
+      "time": "20:05:26",
+      "name": "王力宏",
+      "votes": 3
+    },
+    {
+      "id": "4",
+      "time": "20:05:27",
+      "name": "周杰伦",
+      "votes": 3
+    },
+    {
+      "id": "4",
+      "time": "20:05:32",
+      "name": "周杰伦",
+      "votes": 4
+    }
+  ]
+}
